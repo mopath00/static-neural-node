@@ -1,6 +1,6 @@
 Simulation of a zero-heap embedded neural node in C++20.
 
-Status: Week 1 of 3 complete- matrix engine.
+Status: matrix engine complete.
 
 No runtime check, dimension mismatches fail template deduction (program doesn't compile).
 
